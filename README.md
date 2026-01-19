@@ -1,6 +1,11 @@
 ## Hi there 👋
 ### I'm deeply passionate about expanding my knowledge in a variety of fields to enhance my professional skills.
 
+
+<div id="header" align="center" >
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <!--
 **sanjayps24/sanjayps24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
