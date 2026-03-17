@@ -19,6 +19,13 @@ A Passionate Full Stack Software developer from india.
 ![](https://github-readme-stats.vercel.app/api?username=sanjayps24&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sanjayps24&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayps24&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=sanjayps24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayps24&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayps24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff" width="48%" />
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
