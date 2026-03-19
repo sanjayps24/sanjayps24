@@ -1,3 +1,4 @@
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTE5ejVoYm5zYWNrY2V6c3d0Y2FyZTZvZW5mMHF3OGttcWhseG5iYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="100%" />
 
 ## Hi there 👋
 ### I'm deeply passionate about expanding my knowledge in a variety of fields to enhance my professional skills.
