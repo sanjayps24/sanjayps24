@@ -3,7 +3,6 @@
 </div>
 
 
-
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTE5ejVoYm5zYWNrY2V6c3d0Y2FyZTZvZW5mMHF3OGttcWhseG5iYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="100%" />
 
 ## Hi there 👋
@@ -15,7 +14,7 @@
 </div>
 
 ## 💫 About Me:
-A Passionate Full Stack Software developer from india.
+A Passionate Full Stack Software developer and Engineer from india.
 
 
 ## 🌐 Socials:
