@@ -31,10 +31,14 @@ A Passionate Full Stack Software developer and Engineer from india.
 <img src="https://github-readme-stats.vercel.app/api?username=sanjayps24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayps24&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayps24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff" width="48%" />
-
 </div>
 
+
+<p align="center">
+  <a href="https://github.com/sanjayps24">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sanjayps24&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
 ### 🏆 GitHub Achievements
 
