@@ -5,6 +5,8 @@
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTE5ejVoYm5zYWNrY2V6c3d0Y2FyZTZvZW5mMHF3OGttcWhseG5iYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="100%" />
 
+
+
 ## Hi there 👋
 ### I'm deeply passionate about expanding my knowledge in a variety of fields to enhance my professional skills.
 
@@ -12,6 +14,12 @@
 <div id="header" align="center" >
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=sanjayps24">
+    <img src="https://komarev.com/ghpvc/?username=sanjayps24&label=Profile%20views&color=00FFFF&style=flat-square" alt="sanjayps24's profile views" />
+  </a>
+</p>
 
 ## 💫 About Me:
 A Passionate Full Stack Software developer and Engineer from india.
@@ -46,7 +54,10 @@ A Passionate Full Stack Software developer and Engineer from india.
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayps24&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
