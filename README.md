@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=32&center=true&vCenter=true&width=1000&lines=🌟+PORTAL+TO+INFINITY+🌟;Welcome+to+the+Digital+Dimension+of+Sanjay+P+S;Where+Code+Becomes+Art+and+Innovation+Never+Sleeps" />
-</div
-  
-
+</div>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTE5ejVoYm5zYWNrY2V6c3d0Y2FyZTZvZW5mMHF3OGttcWhseG5iYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="100%" />
 
