@@ -47,9 +47,12 @@ A Passionate Full Stack Software developer and Engineer from india.
   </a>
 </p>
 
+
+
+### 💬 Quote
+> “The best code is not just written—it’s discovered, refined, and earned through countless quiet iterations.”
+<br>
 ### 🏆 GitHub Achievements
-
-
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayps24&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
