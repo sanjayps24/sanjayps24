@@ -8,7 +8,7 @@
 
 
 ## Hi there 👋
-### I'm deeply passionate about expanding my knowledge in a variety of fields to enhance my professional skills.
+### I'm deeply passionate about expanding my knowledge in a variety of fields to enhance my professional skill and other skills.
 
 
 <div id="header" align="center" >
